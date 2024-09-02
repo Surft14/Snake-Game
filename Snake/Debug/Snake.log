@@ -1,0 +1,7 @@
+﻿  MySnake.cpp
+D:\!c++ project\Snake\Snake\MySnake.cpp(174,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\!c++ project\Snake\Snake\MySnake.cpp(322,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MySnake.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Snake.vcxproj -> D:\!c++ project\Snake\Debug\Snake.exe

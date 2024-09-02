@@ -1,0 +1,3 @@
+D:\!c++ project\Snake\Snake\Release\Snake.vcxproj.AssemblyReference.cache
+D:\!c++ project\Snake\Snake\Release\Snake.MySnake.resources
+D:\!c++ project\Snake\Snake\Release\Snake.vcxproj.GenerateResource.cache
